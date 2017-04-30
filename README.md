@@ -1,2 +1,0 @@
-# NodeJSEssential
-NodeJS Essential
